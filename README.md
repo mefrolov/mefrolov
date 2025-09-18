@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @mefrolov
-- 👀 I’m interested in data science and sociology. Especially in application of data science in sociology.
-- 🌱 I’m currently learning R language.
+Hi! 
+
+I'm Mikhail Frolov. My main interests are:
+- data analytics
+- product analytics
+- sociology of music
+
+Contacts: 
+mefrolov26@gmail.com
+@mindlessbriber (telegram)
 
 <!---
 mefrolov/mefrolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
